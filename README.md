@@ -1,3 +1,5 @@
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" alt="Dino" width="600" />
+
 # 💫 About Me:
  🔭 I'm currently working on alesiozs21 - Platform Belajar Front-End<br> 👯 I'm looking to collaborate on Website / Landing Page / Project Open Source<br> 🤝 I'm looking for help with Backend & UI/UX Design<br> 🌱 I'm currently learning React, Tailwind CSS, JavaScript<br> 💬 Ask me about HTML, CSS, JavaScript, Bikin Website Kece<br> ⚡ Fun fact: Gue belajar ngoding dari HP, bukan dari laptop spek dewa
 
@@ -19,4 +21,3 @@
 [![](https://komarev.com/ghpvc/?username=ALESIOZS21&icon=0&color=0)](https://visitcount.itsvg.in)
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" alt="Dino" width="600" />
