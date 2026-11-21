@@ -2,6 +2,9 @@
 ## Hallo Everyone <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="25px"> I'm Alesiozs
 
 
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" alt="Dino" width="600" />
+
+
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/aleesio.21) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@alealeale.21) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:afasefy@gmail.com) [![telegram](https://img.shields.io/badge/@nelmmo-30302f?style=flat&logo=telegram)](https://t.me.nelmmo)
 
@@ -11,7 +14,5 @@
 ![](https://github-readme-stats.shion.dev/api?username=ALESIOZS21&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ALESIOZS21&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ALESIOZS21&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
-
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" alt="Dino" width="600" />
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
