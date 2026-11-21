@@ -1,4 +1,3 @@
-<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" alt="Dino" width="600" />
 
 # 💫 About Me:
  🔭 I'm currently working on alesiozs21 - Platform Belajar Front-End<br> 👯 I'm looking to collaborate on Website / Landing Page / Project Open Source<br> 🤝 I'm looking for help with Backend & UI/UX Design<br> 🌱 I'm currently learning React, Tailwind CSS, JavaScript<br> 💬 Ask me about HTML, CSS, JavaScript, Bikin Website Kece<br> ⚡ Fun fact: Gue belajar ngoding dari HP, bukan dari laptop spek dewa
@@ -13,6 +12,8 @@
 ![](https://github-readme-stats.shion.dev/api?username=ALESIOZS21&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://streak-stats.demolab.com/?user=ALESIOZS21&theme=codeSTACKr&hide_border=false)<br/>
 ![](https://github-readme-stats.shion.dev/api/top-langs/?username=ALESIOZS21&theme=codeSTACKr&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+<img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/dino.gif" alt="Dino" width="600" />
 
 ### 🔝 Top Contributed Repo
 ![](https://github-contributor-stats.vercel.app/api?username=ALESIOZS21&limit=5&theme=tokyonight&combine_all_yearly_contributions=true)
